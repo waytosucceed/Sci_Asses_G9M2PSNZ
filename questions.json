@@ -1,0 +1,331 @@
+{
+  "heading": "Sci_Asses_G9M2PSNZ",
+  "topics": [
+    {
+      "heading": "Homework",
+      "questions": [
+         {
+    "questionNo": 1,
+    "section": "mcq",
+    "marks": 1,
+    "question": "The Tyndall effect can be observed when sunlight passes through a foggy morning.",
+    "options": [
+      { "text": "True" },
+      { "text": "False" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 2,
+    "section": "mcq",
+    "marks": 1,
+    "question": "A mixture contains sand, salt, and ammonium chloride. Which sequence of steps will separate these components effectively?",
+    "options": [
+      { "text": "Sublimation → Dissolution in water → Filtration → Evaporation" },
+      { "text": "Filtration → Sublimation → Evaporation" },
+      { "text": "Evaporation → Filtration → Sublimation" },
+      { "text": "Dissolution in water → Filtration → Sublimation → Evaporation" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 3,
+    "section": "mcq",
+    "marks": 1,
+    "question": "A cell will swell up if:",
+    "options": [
+      { "text": "The concentration of water molecules in the cell is higher than the concentration of water molecules in surrounding medium" },
+      { "text": "The concentration of water molecules in surrounding medium is higher than water molecules concentration in the cell" },
+      { "text": "The concentration of water molecules is same in the cell and in the surrounding medium" },
+      { "text": "Concentration of water molecules does not matter" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 4,
+    "section": "mcq",
+    "marks": 1,
+    "question": "Observe the following diagrams carefully. Which one represents a nucleus-less cell?<br><img width='40%' src='./assests/images/5.png'>",
+    "options": [
+      { "text": "B" },
+      { "text": "C" },
+      { "text": "D" },
+      { "text": "A" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 5,
+    "section": "mcq",
+    "marks": 1,
+    "question": "Chromosomes are made up of:",
+    "options": [
+      { "text": "DNA" },
+      { "text": "Protein" },
+      { "text": "Both" },
+      { "text": "None of these" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 6,
+    "section": "mcq",
+    "marks": 1,
+    "question": "Which of the following is the correct sequence of layers in a bacterial cell from outermost to innermost?",
+    "options": [
+      { "text": "Cell wall → Glycocalyx → Cell membrane" },
+      { "text": "Glycocalyx → Cell wall → Cell membrane" },
+      { "text": "Cell membrane → Cell wall → Glycocalyx" },
+      { "text": "Glycocalyx → Cell membrane → Cell wall" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 7,
+    "section": "mcq",
+    "marks": 1,
+    "question": "Which of the following characteristics is unique to plant cells when considering the organelles listed?",
+    "options": [
+      { "text": "Lysosomes" },
+      { "text": "Large central vacuole" },
+      { "text": "Ribosomes" },
+      { "text": "Mitochondria" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 8,
+    "section": "mcq",
+    "marks": 1,
+    "question": "ATP production in mitochondria mainly occurs in the:",
+    "options": [
+      { "text": "Outer membrane" },
+      { "text": "Matrix" },
+      { "text": "Inner membrane" },
+      { "text": "Intermembrane space" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 9,
+    "section": "mcq",
+    "marks": 1,
+    "question": "Parenchyma, collenchyma and sclerenchyma are kinds of simple permanent tissues in plants. Which of the following statements is true for collenchyma?",
+    "options": [
+      { "text": "1 and 2" },
+      { "text": "2 and 3" },
+      { "text": "3 and 4" },
+      { "text": "All of them" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 10,
+    "section": "mcq",
+    "marks": 1,
+    "question": "Which pair contains only dead cells?",
+    "options": [
+      { "text": "Tracheids and xylem fibres" },
+      { "text": "Sieve tube and companion cell" },
+      { "text": "Xylem parenchyma and phloem parenchyma" },
+      { "text": "Guard cells and epidermal cells" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 11,
+    "section": "mcq",
+    "marks": 1,
+    "question": "The newly formed cells from meristem which become structurally and functionally specialized and lose the ability to divide are known as:",
+    "options": [
+      { "text": "Collenchyma cells" },
+      { "text": "Permanent cells" },
+      { "text": "Sclerenchyma cells" },
+      { "text": "Parenchyma cells" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 12,
+    "section": "mcq",
+    "marks": 1,
+    "question": "Meiosis helps in:",
+    "options": [
+      { "text": "Growth of tissues" },
+      { "text": "Repair of damaged cells" },
+      { "text": "Formation of gametes" },
+      { "text": "Formation of identical cells" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 13,
+    "section": "mcq",
+    "marks": 1,
+    "question": "Plasmids are:",
+    "options": [
+      { "text": "Parts of cell membrane" },
+      { "text": "Extra circular DNA molecules" },
+      { "text": "Region of photosynthesis" },
+      { "text": "Energy-producing bodies" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 14,
+    "section": "mcq",
+    "marks": 1,
+    "question": "Which property prevents colloidal particles from settling down?",
+    "options": [
+      { "text": "Large particle size" },
+      { "text": "Brownian motion" },
+      { "text": "Magnetic attraction" },
+      { "text": "Tyndall effect" }
+    ],
+    "answer": 1
+  },
+        {
+          "questionNo": "15.1",
+          "section": "short",
+          "marks": 3,
+          "question": "Observe the given diagram showing a beam of light passing through three different liquid mixtures:<br><img width='40%' src='./assests/images/6.png'> <br>Identify which test tube represents:<br>(a) Solution: ______<br>(b) Colloidal solution: ______<br>(c) Suspension: ______",
+          "input": ["","",""],
+          "answer": ["A","B","C"]
+        },
+        {
+          "questionNo": "15.2",
+          "section": "short",
+          "marks": 3,
+          "question": "Observe the given diagram showing a beam of light passing through three different liquid mixtures:<br><img width='40%' src='./assests/images/6.png'> <br>Give reasons for your choices.<br> Test tube A:___________________<br> Test tube B:___________________<br> Test tube C:___________________",
+          "text_area": "",
+          "answer": ["Test Tube A:<br>The light passes straight through without scattering. The path of light is not visible, which means the particles are too small to reflect or scatter light. Therefore, it is a true solution.<br>Test Tube B:<br>The light beam is visible due to scattering, but no particles can be seen with the naked eye. This indicates that the particles are present but are very small and evenly dispersed. Hence, it is a colloidal solution.<br>Test Tube C:<br>The light beam is visible, and large insoluble particles can also be seen floating or settling. Since the particles are big enough to be seen and scatter light strongly, it is identified as a suspension."]
+        },
+        {
+          "questionNo": 16,
+          "section": "short",
+          "marks": 3,
+          "question": "Who discovered cells and how?",
+          "text_area": "",
+          "answer": ["Cells were first discovered by Robert Hooke in 1665. While observing a thin slice of cork under a simple microscope, he noticed small, box-like structures that reminded him of the tiny rooms, or “cells,” in a monastery. Although Hooke was only observing the empty cell walls and not the living contents, his work marked the first identification and naming of cells."]
+        },
+        {
+          "questionNo": 17,
+          "section": "short",
+          "marks": 3,
+          "question": "Why does the skin of fingers shrink when you wash clothes for a long time?",
+          "text_area": "",
+          "answer": ["When we wash clothes or soak our hands in water for a long time, the skin of our fingers shrinks because of exosmosis. Soap solution is a very concentrated solution, so it acts as a hypertonic solution, and the outer layers of the skin lose their internal water into the soap solution. This loss of water from the skin cells causes them to shrink, leading to the wrinkled appearance on the fingers."]
+        },
+        {
+          "questionNo": 18,
+          "section": "short",
+          "marks": 3,
+          "question": "Why are lysosomes known as “suicide-bags” of a cell?",
+          "text_area": "",
+          "answer": ["Lysosomes are known as the “suicide bags” of the cell because they contain powerful digestive enzymes that can break down all types of organic materials like proteins, lipids, and carbohydrates. If the lysosome bursts accidentally inside the cell, these enzymes start digesting the cell’s own components, leading to self-destruction."]
+        },
+        {
+          "questionNo": 19,
+          "section": "short",
+          "marks": 3,
+          "question": "How are chromatin, chromosomes, and DNA related to each other?",
+          "text_area": "",
+          "answer": ["DNA, chromatin, and chromosomes are all related forms of genetic material in a cell. DNA is the basic molecule that carries genetic information in the form of genes. DNA is associated with proteins and exists as a loosely packed, thread-like structure called chromatin. During cell division, chromatin condenses to form visible, rod-shaped structures called chromosomes. In this way, DNA forms chromatin, and chromatin condenses to form chromosomes, representing the same genetic material in different structural forms in a cell."]
+        },
+        {
+          "questionNo": 20,
+          "section": "short",
+          "marks": 3,
+          "question": "Name the organelles which show the analogy written as under:<br>Power house of the cell: ______<br>Packaging and dispatching unit of the cell: ______<br>Digestive bag of the cell: ______<br>Storage sacs of the cell: ______<br>Kitchen of the cell: ______<br>Control room of the cell: ______<br><b><i>Hint:</b> Chloroplast, Nucleus, Lysosome, Mitochondria, Golgi body, Vacuole</i>",
+          "input": ["","","","","",""],
+          "answer": ["Mitochondria","Golgi body","Lysosome","Vacuole","Chloroplast","Nucleus"]
+        },
+        {
+          "questionNo": 21,
+          "section": "short",
+          "marks": 3,
+          "question": "Which organelle is known as the powerhouse of the cell? Why?",
+          "text_area": "",
+          "answer": ["Mitochondria are often called the “Powerhouse of the Cell” because they produce energy in the form of ATP through a process called cellular respiration. This energy is used for all the important activities that keep the cell alive and working.<br>ATP is known as the “Energy Currency of the Cell” because it stores and provides energy needed for making new compounds and for mechanical work."]
+        },
+        {
+          "questionNo": 22,
+          "section": "short",
+          "marks": 3,
+          "question": "Define stomata and state their main function?",
+          "text_area": "",
+          "answer": ["Stomata are small pores present on the epidermis. They are mainly made up of two bean shaped cells called guard cells. They perform two main functions:<br>1. Through stomata, oxygen and carbon dioxide move in and out of the plant, similar to the way air enters and leaves our body through the nose.<br>2. Excess water is removed from the plant in the form of water vapour through stomata. This process is called transpiration."]
+        },
+        {
+          "questionNo": 23,
+          "marks": 5,
+          "section": "long",
+          "question": "How are sol, solution and suspension different from each other?",
+          "type": "table",
+          "table": {
+            "columns": ["Sol","Solution","Suspension"],
+            "rows": [
+              ["","",""],
+              ["","",""],
+              ["","",""],
+              ["","",""],
+              ["","",""],
+              ["","",""],
+              ["","",""]
+            ]
+          },
+          "answer": [
+              ["They are heterogenous in nature","They are homogenous in nature.","They are heterogenous in nature."],
+              ["Their particles range between 1nm-1000nm.","Their particles are very small, usually less than 1nm.","Their particles are large, usually greater than 1000nm."],
+              ["The particles do not settle down at bottom due to brownian motion.","The particles do not settle down.","The particles can settle down on standing."],
+              ["They cannot be separated by filtration.","They cannot be separated by filtration.","They can be separated by filtration."],
+              ["They scatter light and show a strong tyndall effect.","They do not scatter light and do not show a tyndall effect.","They scatter light but show a weak tyndall effect."],
+              ["Example: milk etc.","Example: salt in water etc.","Example: sand in water etc."]
+          ]
+        },
+        {
+          "questionNo": 24,
+          "marks": 5,
+          "section": "long",
+          "question": "What is cell division? Describe the different types of cell division.",
+          "text_area": "",
+          "answer": ["Cell division: “It is the process by which a cell divides to form two or more new cells. The cell that divides is known as the parent cell, and the new cells formed are called daughter cells.”<br>During cell division, the nucleus of the cell divides first, and this process is known as karyokinesis. After that, the cytoplasm divides, which is known as cytokinesis.<br>There are two main types of cell division: Mitosis and Meiosis.<br>Mitosis: “It is a type of cell division in which a single parent cell divides to form two identical daughter cells. Each daughter cell has the same number of chromosomes as the parent cell.” It helps in growth, repairing, and replacement of old cells in multicellular organisms. In unicellular organisms, mitosis helps in forming two new organisms from one parent organism.<br>Meiosis: “It is a type of cell division in which a single parent cell divides to form four new daughter cells. Each daughter cell has half the number of chromosomes as the parent cell.” This type of division occurs in the reproductive organs of multicellular organisms to produce gametes (sperm and ovum cells)."]
+        },
+        {
+          "questionNo": 25,
+          "marks": 5,
+          "section": "long",
+          "question": "Differentiate between parenchyma, collenchyma and sclerenchyma.",
+          "type": "table",
+          "table": {
+            "columns": ["Parenchyma","Collenchyma","Sclerenchyma"],
+            "rows": [
+              ["","",""],
+              ["","",""],
+              ["","",""],
+              ["","",""],
+              ["","",""],
+              ["","",""],
+              ["","",""]
+            ]
+          },
+          "answer": [
+              ["Made up of living cells with thin cell walls.","Made up of living cells with unevenly thickened cell walls at the corners.","Made up of dead cells with thick, lignified cell walls."],
+              ["It has large intercellular spaces.","It has very little or no intercellular spaces.","It has no intercellular spaces."],
+              ["It provides storage for food and water.","It provides flexibility and mechanical support to young stems and leaf stalks.","It provides strength and rigidity to mature plant parts."],
+              ["Found in leaves, roots, and stems etc.","Found in leaf stalks and young stems.","Found in hard parts like shells of nuts and husk of coconut."]
+          ]
+        
+        },
+        {
+          "questionNo": 26,
+          "marks": 5,
+          "section": "long",
+          "question": "What is phloem? Describe its different elements with their functions.",
+          "text_area": "",
+          "answer": ["Phloem is a complex permanent tissue in plants that is responsible for the transport of food (prepared in leaves) to different parts of the plant.<br>Elements of phloem and their functions:<br>1. Sieve tubes: They are long, tube like structures formed by many sieve tube elements joined end to end.Their end walls form sieve plates, which contain many pores for the easy movement of food from one cell to another. Sieve tube elements contain cytoplasm but lack a nucleus, which helps in the smooth flow of food.They are the main conducting cells responsible for food transport in plants.Each sieve tube element is closely associated with a companion cells. <br>2. Companion cells: They contain dense cytoplasm and a nucleus. Through their nucleus and metabolic activity, they control and maintain the functioning of sieve tube elements.The main function of companion cells is to help in loading food produced in the leaves into the sieve tubes and assist in the distribution of food to other parts of the plant.<br>3. Phloem parenchyma: These cells mainly function in the storage of food.It helps in supporting the functioning of sieve tubes and companion cells by providing stored food when required. It also assists in the lateral (sideways) transport of food within the phloem tissue.<br>4. Phloem fibres: They have thick, lignified cell walls. They are the only dead cells present in phloem tissue.Instead of participating in food transport, they provide mechanical and structural support to the phloem and help prevent its collapse."]
+        }
+      ]
+    }
+  ]
+}
